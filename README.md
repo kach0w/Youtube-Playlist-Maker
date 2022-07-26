@@ -18,10 +18,7 @@ Publish to web store?
 
 I have to pay $5 to become a chrome web store developer and upload the extension.
 
-So download it here:
-
-<a download="extension.zip" href="/downloads/youtube-playlist-maker.zip" title="extension">
-    <img alt="Download" src="/assets/download.jpg">
-</a>
+So download it 
+<a download="extension.zip" href="/downloads/youtube-playlist-maker.zip" title="extension">here</a>:
 
 
