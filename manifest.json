@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "First-Extensions",
-    "description": "From WHCRs?",
+    "name": "Youtube Playlist Maker",
+    "description": "Go to a Youtuber's page and click 'videos', then activate the extension and a list of all the videos will show up -- Extension Made by Kach0w",
     
     "version": "1.0",
     "browser_action": {
