@@ -12,7 +12,7 @@ Creates a list of a youtuber's video with the urls for each accessible in the ex
 I have to pay $5 to become a chrome web store developer and upload the extension.
 
 So instead, download it 
-<a id="raw-url" href="https://raw.githubusercontent.com/kach0w/Youtube-Playlist-Maker/master/downloads/Youtube-Playlist-Maker.zip">here</a>. Then go to the <a href="https://chrome://extensions/">chrome extension dashboard</a> and just drag the zip file in to upload it.
+<a id="raw-url" href="https://raw.githubusercontent.com/kach0w/Youtube-Playlist-Maker/master/downloads/Youtube-Playlist-Maker.zip">here</a>. Then go to the <a href="chrome://extensions/">chrome extension dashboard</a> selection developer mode and just drag the zip file in to upload it.
 <!--<a download="extension.zip" href="/downloads/Youtube-Playlist-Maker.zip" title="extension">here</a>:-->
 
 # Usage:
