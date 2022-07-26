@@ -18,7 +18,7 @@ chrome extension dashboard (chrome://extensions), select developer mode and just
 
 # Usage:
 
-One properly downloaded, go to Youtube and go to a Youtuber's page. Once there press "Add Links" and the links of all the youtube videos on that page will be shown. Copy the file into a text document and your playlist is finished.
+One properly downloaded, go to Youtube and go to a Youtuber's page. Once there press "Add Links" and the links of all the youtube videos on that page will be shown. You will have to reload the page a few times when trying to create a playlist for another Youtuber. Then, copy the file into a text document and your playlist is finished.
 
 # Plans:
 
