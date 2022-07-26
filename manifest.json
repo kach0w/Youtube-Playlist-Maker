@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "Breeze",
+    "name": "First-Extensions",
     "description": "From WHCRs?",
     
     "version": "1.0",
@@ -19,5 +19,11 @@
         "https://*/*",
         "storage"
         
-    ]
+    ],
+    "content_scripts": [ 
+        { 
+            "js": [ "/node_modules/jquery/dist/jquery.min.js", "action.js", "injector.js" ],
+            "matches": ["*://*/*"]
+        }
+     ] 
 }
