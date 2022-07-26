@@ -1,7 +1,7 @@
-# Google Extension
-<b>Working with Google Extensions</b>
+# Youtube Playlist Maker
+<b>First Step in Working with Google Extensions</b>
 
-Found a good framework to build my own extension (@T-L-H)
+I found a good framework to build my own extension (@T-L-H) off 
 
 Here is what mine does: 
 
