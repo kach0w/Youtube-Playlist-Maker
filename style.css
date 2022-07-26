@@ -2,22 +2,16 @@
 /********* General CSS *********/
 /*******************************/
 body {
-    color: #797979;
-    background: lightblue;
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
     font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    width: 400px;
 }
 
-h1,
-h2, 
-h3, 
-h4,
-h5, 
-h6 {
-    color: #414141;
-}
 
 a {
-    color: #313131;
+    color: #302626;
     transition: .3s;
 }
 

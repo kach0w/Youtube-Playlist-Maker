@@ -22,7 +22,7 @@
     ],
     "content_scripts": [ 
         { 
-            "js": [ "/node_modules/jquery/dist/jquery.min.js", "action.js", "injector.js" ],
+            "js": [ "/node_modules/jquery/dist/jquery.min.js", "action.js", "content-script.js" ],
             "matches": ["*://*/*"]
         }
      ] 
